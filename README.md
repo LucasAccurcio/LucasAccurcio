@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">Olá, meu nome é Lucas Accurcio</h1>
+<h3 align="center">Futuro Full Stack Developer</h3>
 
-<!--
-**LucasAccurcio/LucasAccurcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-Here are some ideas to get you started:
+### Ferramentas:
+- HTML & CSS
+- Javascript
+- ReactJS
+- Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Sobre mim:
+- Tenho 34 anos, sou formado em Sistemas de Informações pela Universidade São Judas Tadeu.
+- Fui empresário e administrador de empresas por 14 anos.
+- Fiz intercâmbio cultura em Dublin / Irlanda entre os março/2020 a janeiro/2021.
+
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
+### Meu status:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasaccurcio)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Meus contatos:
+<a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://www.instagram.com/lucasaccurcio/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/LucasAccurcio" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://lucasaccurcio.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+
+### Contador de visualização:
+![](https://komarev.com/ghpvc/?username=LucasAccurcio&style=flat-square)
+
