@@ -1,12 +1,14 @@
-<h1 align="center">Olá, meu nome é Lucas Accurcio</h1>
-<h3 align="center">Futuro Full Stack Developer</h3>
+<h1 align="center">Olá, sou o Lucas Accurcio</h1>
+<h3 align="center">Estudante de desenvolvimento Web na Trybe | Futuro Full Stack Developer</h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-### Ferramentas:
+### Linguagens e Tecnologias:
 - HTML & CSS
 - Javascript
 - ReactJS
+- Context API
+- Hooks
 - Redux
 
 
