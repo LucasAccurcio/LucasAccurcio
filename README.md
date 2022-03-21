@@ -25,7 +25,7 @@
 
 
 ### Meus contatos:
-<a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/fb.png" alt="Facebook" width="27"></a>
+<a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/fb.png" alt="Facebook" width="29"></a>
 <a href="https://www.instagram.com/lucasaccurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/LucasAccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/git.png" alt="GitHub" width="30"></a>
