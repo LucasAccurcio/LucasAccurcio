@@ -4,18 +4,31 @@
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 ### Linguagens e Tecnologias:
+
+# Front-end
 - HTML & CSS
 - Javascript
 - ReactJS
 - Context API
 - Hooks
 - Redux
+- Testes
+
+# Back-end
+- Docker
+- MySql
+- Sequelize
+- NodeJS
+- API Rest
+- Testes / TDD
+- TypeScript
+- Programação Orientada a Objetos e Solid
 
 
 ### Sobre mim:
-- Tenho 34 anos, sou formado em Sistemas de Informações pela Universidade São Judas Tadeu.
+- Tenho 34 anos, me formei em 2008 em bacharelado em Sistemas de Informações pela Universidade São Judas Tadeu (São Paulo).
 - Fui empresário e administrador de empresas por 14 anos.
-- Fiz intercâmbio cultura em Dublin / Irlanda entre os março/2020 a janeiro/2021.
+- Fiz intercâmbio cultural em Dublin / Irlanda entre os março/2020 a janeiro/2021.
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
