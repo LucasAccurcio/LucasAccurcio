@@ -10,12 +10,12 @@
 <br>
 
 ## Linguagens e Tecnologias:
-<table>
+<table border="0">
   <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Tools</th>
+    <th width="100px">Frontend</th>
+    <th width="100px">Backend</th>
+    <th width="100px">Database</th>
+    <th width="100px">Tools</th>
   </tr>
   
   <tr>
@@ -76,6 +76,7 @@
 ## Meu status:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
+<br>
 
 
 ## Meus contatos:
