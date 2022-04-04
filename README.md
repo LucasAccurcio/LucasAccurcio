@@ -1,15 +1,15 @@
-<h1 align="center">Olá, sou o Lucas Accurcio</h1>
-<h3 align="center">Estudante de desenvolvimento Web na Trybe | Futuro Full Stack Developer</h3>
 
+## Olá! Bem vindo ao meu perfil do Github.
+### Meu nome é Lucas Accurcio! 👋
+<br>
 <!-- <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">  -->
 
 ## Sobre mim:
-- Tenho 34 anos, me formei em 2008 em bacharelado em Sistemas de Informações pela Universidade São Judas Tadeu (São Paulo).
-- Fui empresário e administrador de empresas por 14 anos.
-- Fiz intercâmbio cultural em Dublin / Irlanda entre os março/2020 a janeiro/2021.
+- Desenvolvedor Full Stack em transição de carreira.
+- Atualmente estudo desenvolvimento Web na escola <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a> com previsão de término para Junho/2022.
 <br>
 
-## Linguagens e Tecnologias:
+## Minhas Stacks:
 <table border="0">
   <tr>
     <th width="100px">Frontend</th>
