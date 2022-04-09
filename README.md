@@ -21,7 +21,7 @@
   <tr>
     <td align="center"><img title="javascript" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/javascript.svg" alt="ícone javascript" width="40"></td>
     <td align="center"><img title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="ícone nodejs" width="70"></td>
-    <td align="center"><img title="mysql" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mysql.svg" alt="ícone mysql" width="40"></td>
+    <td align="center"><img title="mysql" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mysql.svg" alt="ícone mysql" width="45"></td>
     <td align="center"><img title="ubuntu" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ubuntu.svg" alt="ícone ubuntu" width="40"></td>
   </tr>
   
@@ -42,7 +42,7 @@
   <tr>
     <td align="center"><img title="react" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/react.svg" alt="ícone react" width="40"></td>
     <td align="center"><img title="python" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/python.svg" alt="ícone python " width="40"></td>
-    <td align="center"></td>
+    <td align="center"><img title="mongoose" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mongoose.png" alt="ícone mongoose" width="70"></td>
     <td align="center"><img title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="ícone heroku" width="45"></td>
   </tr>
 
