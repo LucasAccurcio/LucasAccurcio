@@ -36,7 +36,7 @@
     <td align="center"><img title="css-3" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/css-3.svg" alt="ícone css-3" width="42"></td>
     <td align="center"><img title="typescript" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/typescript-icon.svg" alt="ícone typescript" width="40"></td>
     <td align="center"><img title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="ícone mongodb" width="50"></td>
-    <td align="center"><img title="github" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/git-icon.svg" alt="ícone github" width="45"></td>
+    <td align="center"><img title="github" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/github.svg" alt="ícone github" width="50"></td>
   </tr>
   
   <tr>
