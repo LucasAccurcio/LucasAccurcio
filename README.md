@@ -74,9 +74,9 @@
 <!-- <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">  -->
 
 ## Meu status:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAccurcio&layout=compact&langs_count=16&theme=bear)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
 
 
 ## Meus contatos:
@@ -88,5 +88,5 @@
 <a href="mailto:lucas.accurcio@hotmail.com" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mail1.png" alt="Email" width="30"></a>
 
 ### Contador de visualização:
-![](https://komarev.com/ghpvc/?username=LucasAccurcio&style=flat-square)
+![contador](https://komarev.com/ghpvc/?username=LucasAccurcio&style=flat-square)
 
