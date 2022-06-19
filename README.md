@@ -1,16 +1,17 @@
 
-## Olá! Bem vindo ao meu perfil do Github.
+## Olá! Bem vindo ao meu perfil do Github :octocat:
 
 #### Meu nome é Lucas Accurcio! 👋
+<br>
 
 
-### About me:
+### :raising_hand_man: About me:
 - Desenvolvedor Web Full Stack em transição de carreira.
 - Estudo desenvolvimento Web na escola <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>, além do curso regular, participo da Aceleração Java, ambos com previsão de término para final de Julho/2022.
 - Atualmente aprendendo Python e Design Patterns no módulo Ciência da Computação e testes JUnit em Java.
 <br>
 
-### Programming languages and tools:
+### :man_technologist: Programming languages and tools:
 
 <table border="0">
   <tr>
@@ -75,13 +76,13 @@
 
 <!-- <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">  -->
 
-## Meu status:
+### Meu status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAccurcio&layout=compact&langs_count=16&theme=bear)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
 
 
-## Meus contatos:
+### Meus contatos:
 <a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/fb.png" alt="Facebook" width="29"></a>
 <a href="https://www.instagram.com/lucasaccurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/in.png" alt="LinkedIn" width="30"></a>
