@@ -76,13 +76,13 @@
 
 <!-- <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">  -->
 
-### Meu status:
+### 📊 My status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAccurcio&layout=compact&langs_count=16&theme=bear)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
 
 
-### Meus contatos:
+### 📱 My contacts:
 <a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/fb.png" alt="Facebook" width="29"></a>
 <a href="https://www.instagram.com/lucasaccurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/in.png" alt="LinkedIn" width="30"></a>
