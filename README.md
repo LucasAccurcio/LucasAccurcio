@@ -2,14 +2,13 @@
 ## Olá! Bem vindo ao meu perfil do Github :octocat:
 
 #### Meu nome é Lucas Accurcio! 👋
-<br>
 
 
 ### :raising_hand_man: About me:
-- Desenvolvedor Web Full Stack em transição de carreira.
+- Desenvolvedor Web Full Stack.
 - Estudo desenvolvimento Web na <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>. E além do curso regular, participo da Aceleração Java, ambos com previsão de término para final de Julho/2022.
 - Atualmente aprendendo Python e Design Patterns no módulo Ciência da Computação e testes JUnit em Java.
-<br>
+
 
 ### :man_technologist: Programming languages and tools:
 
@@ -77,14 +76,11 @@
 <!-- <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">  -->
 
 ### 📊 My status:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAccurcio&layout=compact&langs_count=16&theme=bear)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAccurcio&layout=compact&langs_count=8&theme=bear&card_width=250px)
 
 
 ### :incoming_envelope: My contacts:
-<a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/fb.png" alt="Facebook" width="29"></a>
-<a href="https://www.instagram.com/lucasaccurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/LucasAccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/git.png" alt="GitHub" width="30"></a>
 <a href="https://lucasaccurcio.github.io/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/www.png" alt="Website" width="30"></a>
