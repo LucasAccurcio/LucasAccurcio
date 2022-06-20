@@ -7,7 +7,7 @@
 
 ### :raising_hand_man: About me:
 - Desenvolvedor Web Full Stack em transição de carreira.
-- Estudo desenvolvimento Web na escola <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>, além do curso regular, participo da Aceleração Java, ambos com previsão de término para final de Julho/2022.
+- Estudo desenvolvimento Web na <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>. E além do curso regular, participo da Aceleração Java, ambos com previsão de término para final de Julho/2022.
 - Atualmente aprendendo Python e Design Patterns no módulo Ciência da Computação e testes JUnit em Java.
 <br>
 
