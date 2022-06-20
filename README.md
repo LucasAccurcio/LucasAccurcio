@@ -90,6 +90,6 @@
 <a href="https://lucasaccurcio.github.io/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/www.png" alt="Website" width="30"></a>
 <a href="mailto:lucas.accurcio@hotmail.com" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mail1.png" alt="Email" width="30"></a>
 
-### Contador de visualização:
+### ⏲️ Contador de visualização:
 ![contador](https://komarev.com/ghpvc/?username=LucasAccurcio&style=flat-square)
 
