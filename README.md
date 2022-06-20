@@ -82,7 +82,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
 
 
-### 📱 My contacts:
+### :incoming_envelope: My contacts:
 <a href="https://www.facebook.com/lucasaccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/fb.png" alt="Facebook" width="29"></a>
 <a href="https://www.instagram.com/lucasaccurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/in.png" alt="LinkedIn" width="30"></a>
