@@ -55,7 +55,7 @@
 
   <tr>
     <td align="center"><img title="redux" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/redux.svg" alt="ícone redux" width="40"></td>
-    <td align="center"><img title="java" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/java.svg" alt="ícone java " width="40"></td>
+    <td align="center"><img title="java" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/java.png" alt="ícone java " width="40"></td>
     <td align="center"><img title="sinonjs" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/sinonjs.png" alt="ícone sinonjs" width="45"></td>
     <td align="center"></td>
     <td align="center"><img title="docker" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/docker-icon.svg" alt="ícone docker" width="45"></td>
