@@ -5,10 +5,10 @@
 
 
 ### :raising_hand_man: About me:
-- Desenvolvedor Web Full Stack.
-- Estudo desenvolvimento Web na <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>. E além do curso regular, participo da Aceleração Java, ambos com previsão de término para final de Julho/2022.
-- Atualmente aprendendo Python e Design Patterns no módulo Ciência da Computação e testes JUnit em Java.
-
+- Desenvolvedor Web Full Stack formado pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>. :school:
+- Formado em Sistemas de Informações pela USJT. :mortar_board:
+- Participei da Aceleração Java pela Trybe. :coffee:
+- Fiz um intercâmbio cultural em Dublin / Irlanda. :shamrock:
 
 ### :man_technologist: Programming languages and tools:
 
