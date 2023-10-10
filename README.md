@@ -1,90 +1,47 @@
 
-## Olá! Bem vindo ao meu perfil do Github :octocat:
-
-#### Meu nome é Lucas Accurcio! 👋
+### Hi there, I’m Lucas Accurcio! 👋
 
 
 ### :raising_hand_man: About me:
-- Desenvolvedor Web Full Stack formado pela <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">Trybe</a>. :school:
-- Formado em Sistemas de Informações pela USJT. :mortar_board:
-- Participei da Aceleração Java pela Trybe. :coffee:
-- Fiz um intercâmbio cultural em Dublin / Irlanda. :shamrock:
+I'm a Full Stack Web Developer graduated from Trybe in 2022, and I had the opportunity to participate in their Java Acceleration Course.
 
-### :man_technologist: Programming languages and tools:
+I have a degree in Information Systems from São Judas Tadeu University, São Paulo.
 
-<table border="0">
-  <tr>
-    <th width="100px">Frontend</th>
-    <th width="100px">Backend</th>
-    <th width="100px">Tests</th>
-    <th width="100px">Database</th>
-    <th width="100px">Tools</th>
-  </tr>
-  
-  <tr>
-    <td align="center"><img title="javascript" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/javascript.svg" alt="ícone javascript" width="40"></td>
-    <td align="center"><img title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="ícone nodejs" width="70"></td>
-    <td align="center"><img title="testing library" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/testing-library.svg" alt="testing library ícone " width="40"></td>
-    <td align="center"><img title="mysql" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mysql.svg" alt="ícone mysql" width="45"></td>
-    <td align="center"><img title="ubuntu" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/ubuntu.svg" alt="ícone ubuntu" width="40"></td>
-  </tr>
-  
-  <tr>
-    <td align="center"><img title="html-5" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/html-5.svg" alt="ícone html-5" width="42"></td>
-  <td align="center"><img title="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ícone express" width="40"></td>
-    <td align="center"><img title="jest" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/jest.svg" alt="ícone jest" width="40"></td>
-    <td align="center"><img title="sequelize" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/sequelize.svg" alt="ícone sequelize" width="40"></td>
-    <td align="center"><img title="visual-studio-code" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/visual-studio-code.svg" alt="ícone vscode" width="40"></td>
-  </tr>
-  
-  <tr>
-    <td align="center"><img title="css-3" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/css-3.svg" alt="ícone css-3" width="42"></td>
-    <td align="center"><img title="typescript" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/typescript-icon.svg" alt="ícone typescript" width="40"></td>
-    <td align="center"><img title="chai" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/chai.svg" alt="ícone chai" width="40"></td>
-    <td align="center"><img title="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="ícone mongodb" width="50"></td>
-    <td align="center"><img title="github" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/github.svg" alt="ícone github" width="50"></td>
-  </tr>
-  
-  <tr>
-    <td align="center"><img title="react" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/react.svg" alt="ícone react" width="40"></td>
-    <td align="center"><img title="python" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/python.svg" alt="ícone python " width="40"></td>
-    <td align="center"><img title="mocha" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mocha.svg" alt="ícone mocha" width="40"></td>
-    <td align="center"><img title="mongoose" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mongoose.png" alt="ícone mongoose" width="70"></td>
-    <td align="center"><img title="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="ícone heroku" width="45"></td>
-  </tr>
+I did a cultural exchange in Dublin / Ireland in 2020.
 
-  <tr>
-    <td align="center"><img title="redux" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/redux.svg" alt="ícone redux" width="40"></td>
-    <td align="center"><img title="java" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/java.png" alt="ícone java " width="40"></td>
-    <td align="center"><img title="sinonjs" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/sinonjs.png" alt="ícone sinonjs" width="45"></td>
-    <td align="center"></td>
-    <td align="center"><img title="docker" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/docker-icon.svg" alt="ícone docker" width="45"></td>
-  </tr>
-  
-  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><img title="metodologia ágeis - Scrum / Kanban" src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/agile.png" alt="ícone metodologia ágeis" width="40"></td>
-  </tr>
-</table>
+🇮🇹 Dual Italian citizenship holder, enabling work opportunities in Europe.
 
 
+### :man_technologist: My skills and technologies:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <!-- <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">  -->
 
-### 📊 My status:
+### 📊 My stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAccurcio&theme=bear&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAccurcio&layout=compact&langs_count=8&theme=bear&card_width=250px)
 
 
 ### :incoming_envelope: My contacts:
-<a href="https://www.linkedin.com/in/lucas-accurcio/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/LucasAccurcio" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/git.png" alt="GitHub" width="30"></a>
-<a href="https://lucasaccurcio.github.io/" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/www.png" alt="Website" width="30"></a>
-<a href="mailto:lucas.accurcio@hotmail.com" target="_blank"><img src="https://github.com/LucasAccurcio/LucasAccurcio/blob/main/mail1.png" alt="Email" width="30"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-accurcio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.accurcio@hotmail.com)
 
 ### ⏲️ Views counter:
 ![contador](https://komarev.com/ghpvc/?username=LucasAccurcio&style=flat-square)
