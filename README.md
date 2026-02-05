@@ -4,7 +4,7 @@
 
 ### :raising_hand_man: About me:
 - 💻 I'm a Fullstack Web Developer since 2021.
-- ⚛️ JavaScript | TypeScript | React && React Native | NodeJs | Java | C#
+- ⚛️ JavaScript | TypeScript | React && React Native | NodeJs
 - ☁️ AWS EC2 | S3 | ECR
 - 📖 I'm graduated in Information Systems from São Judas Tadeu University, São Paulo, Brazil.
 - 🛂 Dual citizen (Brazil and Italy), eligible to work in both countries and throughout the European Union.
